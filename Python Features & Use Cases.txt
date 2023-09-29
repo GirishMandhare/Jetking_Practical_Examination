@@ -1,0 +1,25 @@
+1) What is Python Programming Language and explain features of
+Python Programming Language.
+
+Answer :
+Python is a High Level ,General Purpose,Interpreted Programming Laguage.
+1) High Level :
+Python is High Level Programming Language that makes it easy to learn.
+Python doesnt require you to understand the details of the computer in order to develop programs efficiently.
+
+2) General Purpose :
+Python is a General Purpose Language . It means that you can use python on various domains including :
+>WebApplication
+>Big Data Application
+>Testing,Automation
+>Data Science,Machine Learning & AI
+>Desktip Software
+>Mobile Application Building
+
+3) Interpreted
+Python is an interpreted language.to develop a python program you write python code into a file called source code
+
+Why Is it Important to learn Python?
+Python increses your productivity .python allows you to solve complex problems in less time and fewer lines of code.itsquick to make a prototype in
+python. also python becomes a solution in many areas acrros industries from web application to data science and machine learning and AI.
+Python has a large Eco System that includes lots of libraries and frameworks, python programs run on Windows,Linux,mac OS.
